@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<transitionSet xmlns:android="http://schemas.android.com/apk/res/android">
+    <changeImageTransform/>
+    <!--Android also supports these shared elements transitions:
+
+    changeBounds - Animates the changes in layout bounds of target views.
+    changeClipBounds - Animates the changes in clip bounds of target views.
+    changeTransform - Animates the changes in scale and rotation of target views.
+    changeImageTransform - Animates changes in size and scale of target images.
+-->
+</transitionSet>
